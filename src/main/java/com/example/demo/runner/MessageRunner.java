@@ -10,6 +10,7 @@ public class MessageRunner implements CommandLineRunner {
 		// TODO Auto-generated method stub
 		System.out.println("welcome to spring boot app");
 		System.out.println("Last one added");
+		System.out.println("Again Added");
 	}
 
 }
